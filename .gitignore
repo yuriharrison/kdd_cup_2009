@@ -1,0 +1,11 @@
+*.pyc
+*.pyo
+*.pickle
+*.egg-info
+.ipynb_checkpoints
+
+save/
+data/orange_large_set
+
+# developer enviroments
+.vscode/
